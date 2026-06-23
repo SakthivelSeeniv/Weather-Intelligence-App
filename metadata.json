@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A beautiful weather dashboard with city search, 7-day forecast, and smart activity recommendations based on weather conditions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
